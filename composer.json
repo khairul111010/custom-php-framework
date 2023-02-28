@@ -1,0 +1,15 @@
+{
+    "name": "dipu/php-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "khairul111010",
+            "email": "khairul18103199@gmail.com"
+        }
+    ],
+    "require": {}
+}
